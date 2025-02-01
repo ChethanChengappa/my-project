@@ -1,0 +1,1 @@
+This repository contains a Dockerized Flask web application. It includes a Dockerfile and docker-compose.yml for easy deployment, ensuring a consistent environment across development and production. The setup supports scalability, environment variable management, and seamless container orchestration.
